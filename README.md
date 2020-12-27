@@ -9,7 +9,7 @@
 
 - [رزومه](https://jalaliiliya.github.io/)
 
-- [SOP](https://saharrajabi.github.io/SOP/)
+- [SOP](https://jalaliiliya.github.io/SOP/)
 
 - [CERTIFICATE](https://www.sololearn.com/Certificate/1024-20275551/pdf/)
 
