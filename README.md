@@ -22,7 +22,77 @@
 ## دروس ارشد
 
 [1115280_01	معماری نرم افزار](https://github.com/jalaliiliya/PNU_3991_AR/tree/main/SoftwareArchitecture)
+## روز و ساعت ارائه دروس
 
+<table dir="ltr" style="width:100%">
+ <thead>
+  <tr>
+    <td>18-20</td>
+    <td>16-18</td>
+    <td>14-16</td>
+    <td>12-14</td>
+    <td>10-12</td>
+    <td>8-10</td>
+    <td>روز</td>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>شنبه</td>
+  </tr>
+   <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>یک شنبه</td>
+  </tr>
+   <tr>
+     <td></td>
+     <td></td>
+     <td></td>
+     <td></td>
+     <td></td>
+    <td></td>   
+    <td>دوشنبه</td>
+  </tr>
+   <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>سه شنبه</td>
+  </tr>
+   <tr>
+    
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+     <td></td>
+    <td>چهارشنبه</td>
+  </tr>
+   <tr>
+    <td></td>
+    <td></td>
+     <td></td>
+     <td><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture">معماری نرم افزار</a></td>
+  
+    <td>پنج شنبه</td>
+  </tr>
+  </tbody>
+</table>
+</div>
 
 
 
