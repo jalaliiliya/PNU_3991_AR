@@ -17,6 +17,12 @@
 
 - [patchwork](https://github.com/jalaliiliya/patchwork)
 ------------------
+> ارزیابی ها
+
+##  بخش عمومی
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/jalaliiliya/PNU_3991_AR/blob/main/_General/AJ_CV_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/jalaliiliya/PNU_3991_AR/blob/main/AJ_GeneralSection_CheckList_AR_3991.pdf)
+
 ## Winter Semester Courses 1399/2020
 
 ## دروس ارشد
