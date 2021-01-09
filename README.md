@@ -74,7 +74,7 @@
     <td>سه شنبه</td>
   </tr>
    <tr>
-    
+    <td>مهندسی نیازمندیها</td>
     <td></td>
     <td></td>
     <td></td>
@@ -87,13 +87,13 @@
     <td></td>
      <td></td>
      <td><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture">معماری نرم افزار</a></td>
-  
+    
+    <td>داده کاوی</td>
     <td>پنج شنبه</td>
   </tr>
   </tbody>
 </table>
 </div>
-
 
 
 
