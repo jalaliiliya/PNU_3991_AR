@@ -74,7 +74,7 @@
     <td></td>
     <td></td>
     <td></td>
-    <td>سیستم عامل جبرانی</td>
+    <td>مهندسی نرم افزار 1(جبرانی)</td>
     <td></td>
     <td></td>
     <td>سه شنبه</td>
@@ -83,16 +83,16 @@
     <td> </td>
     <td></td>
     <td></td>
-    <td>معماری کامپیوتر</td>
     <td></td>
-     <td>سیستم های توزیع</td>
+    <td></td>
+     <td></td>
     <td>چهارشنبه</td>
   </tr>
    <tr>
     <td></td>
     <td></td>
      <td></td>
-     <td><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture">معماری نرم افزار</a></td>
+     <td><a</a></td>
      <td></td>
     <td></td>
     <td>پنج شنبه</td>
