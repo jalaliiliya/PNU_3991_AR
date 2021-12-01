@@ -92,7 +92,7 @@
     <td></td>
     <td></td>
      <td></td>
-     <td><a</a></td>
+     <td><a https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareProjectManagement#TOC</a>مدیریت پروژه های نرم افزاری</td>
      <td></td>
     <td></td>
     <td>پنج شنبه</td>
